@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/static/js/main.c8fbe619.js",
+    "static/media/guide2.PNG": "/static/media/guide2.c3e5e08bdb58e5281caf.PNG",
+    "static/media/guide1.png": "/static/media/guide1.3f44fd09722663c4bd17.png",
+    "index.html": "/index.html",
+    "main.c8fbe619.js.map": "/static/js/main.c8fbe619.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c8fbe619.js"
+  ]
+}
